@@ -13,6 +13,7 @@ Code example show how to read data (humidity and temperature) from remote transm
 1. Wio E5 mini development board
 
 ![Formula](https://github.com/user-attachments/assets/68e000f3-e90c-4491-92d9-3daf80d56f99)
+
 Fig.1 Formula to calculate humidity and temperature. Srh and St are 16 bits value from STH30
 
 ![receiver](https://github.com/user-attachments/assets/6c670857-171d-4dc9-adb8-7d5a6f720a0b)
